@@ -1,0 +1,82 @@
+# Translation of the WordPress plugin Passlogy Password Reminder.
+# Copyright (C) Passlogy Co.,Ltd. 2000-2014
+# This file is distributed under the same license as the Passlogy Password Reminder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Passlogy Password Reminder\n"
+"PO-Revision-Date: 2014-03-26 04:00+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.leafintheforest.com/?page_id=50"
+msgstr "http://www.leafintheforest.com/?page_id=50"
+
+#. Description of the plugin/theme
+msgid "Passlogy Password Reminder will show your random password in the matrix for login."
+msgstr "Passlogy Password Reminder は、ログインのときに、あなたのランダムなパスワードを乱数表に表示します。"
+
+#: ../passlogy_pwd_reminder.php:74
+#: ../passlogy_pwd_reminder_options.php:66
+msgid "Passlogy Password Reminder Options Setting"
+msgstr "Passlogy Password Reminder 詳細設定"
+
+#: ../passlogy_pwd_reminder.php:75
+msgid "PPR Options"
+msgstr "PPR Options"
+
+#: ../passlogy_pwd_reminder.php:140
+msgid "Login code"
+msgstr "ログインコード"
+
+#: ../passlogy_pwd_reminder.php:165
+msgid "<p>protected by <strong><font color=\"#fa0\">Passlogy Password Reminder</font></strong>.</p><br>"
+msgstr "<p>このサイトは、<strong><font color=\"#fa0\">Passlogy Password Reminder</font></strong> によって保護されています。</p><br>"
+
+#: ../passlogy_pwd_reminder.php:188
+msgid "Please input the login code that was sent to your email for login without Passlogy Password Reminder temporarily."
+msgstr "一時的に Passlogy Password Reminder 保護なしでログインするため、ご登録のメールアドレスに「ログインコードをお知らせしますメール」を送りました。メールに記載されている「ログインコード」を入力してください。"
+
+#: ../passlogy_pwd_reminder_options.php:72
+msgid "PPR Server URL"
+msgstr "PPRサーバのURL"
+
+#: ../passlogy_pwd_reminder_options.php:76
+msgid "PPR Server API URI"
+msgstr "PPRサーバ認証APIのURI"
+
+#: ../passlogy_pwd_reminder_login.php:24
+#: ../passlogy_pwd_reminder_login.php:80
+msgid "Could not connect to Passlogy Password Reminder server."
+msgstr "Passlogy Password Reminder サーバに接続できませんでした。"
+
+#: ../passlogy_pwd_reminder_login.php:46
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Signup to Passlogy Password Reminder\" target=\"_blank\">Signup to Passlogy Password Reminder</a>?"
+msgstr "<strong>エラー</strong>: 無効なユーザー名です。<a href=\"%s\" title=\"Passlogy Password Reminder に登録\" target=\"_blank\">Passlogy Password Reminder に登録しませんか</a>?"
+
+#: ../passlogy_pwd_reminder_login.php:71
+#: ../passlogy_pwd_reminder_login.php:93
+msgid "<br><a href=\"%s\" title=\"Login without Passlogy Password Reminder temporarily\">Login without Passlogy Password Reminder temporarily</a> ?"
+msgstr "<br><a href=\"%s\" title=\"一時的にログイン\">一時的に Passlogy Passeword Reminder 保護なしでログインしますか</a> ?"
+
+#: ../passlogy_pwd_reminder_login.php:101
+msgid "<strong>ERROR</strong>: The password you entered for the username <strong>%s</strong> is not displayed on Passlogy Password Reminder. Display your password on Passlogy Password Reminder."
+msgstr "<strong>エラー</strong>: ユーザ名 <strong>%s</strong> のパスワードは Passlogy Password Reminder で表示されていません。Passlogy Password Reminder でこのサイトのパスワードを表示してください。"
+
+#: ../passlogy_pwd_reminder_login.php:126
+msgid "A login code was sent for login without Passlogy Password Reminder temporarily."
+msgstr "一時的に Passlogy Password Reminder 保護なしでログインするための「ログインコード」を送ります。"
+
+#: ../passlogy_pwd_reminder_login.php:127
+msgid "Your temporarily login code is \"%s\"."
+msgstr "ログインコードは、\"%s\" です。"
+
+#: ../passlogy_pwd_reminder_login.php:133
+msgid "[%s] Your temporarily login code"
+msgstr "[%s] ログインコードをお知らせします"

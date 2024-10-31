@@ -1,0 +1,77 @@
+# Translation of the WordPress plugin Passlogy Password Reminder.
+# Copyright (C) Passlogy Co.,Ltd. 2000-2014
+# This file is distributed under the same license as the Passlogy Password Reminder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Passlogy Password Reminder\n"
+"PO-Revision-Date: 2014-03-26 04:00+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.leafintheforest.com/?page_id=50"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Passlogy Password Reminder will show your random password in the matrix for login."
+msgstr ""
+
+#: ../passlogy_pwd_reminder.php:74
+#: ../passlogy_pwd_reminder_options.php:66
+msgid "Passlogy Password Reminder Options Setting"
+msgstr ""
+
+#: ../passlogy_pwd_reminder.php:75
+msgid "PPR Options"
+msgstr ""
+
+#: ../passlogy_pwd_reminder.php:140
+msgid "Login code"
+msgstr ""
+
+#: ../passlogy_pwd_reminder.php:165
+msgid "<p>protected by <strong><font color=\"#fa0\">Passlogy Password Reminder</font></strong>.</p><br>"
+msgstr ""
+
+#: ../passlogy_pwd_reminder.php:188
+msgid "Please input the login code that was sent to your email for login without Passlogy Password Reminder temporarily."
+msgstr ""
+
+#: ../passlogy_pwd_reminder_options.php:72
+msgid "PPR Server URL"
+msgstr ""
+
+#: ../passlogy_pwd_reminder_options.php:76
+msgid "PPR Server API URI"
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:24
+#: ../passlogy_pwd_reminder_login.php:80
+msgid "Could not connect to Passlogy Password Reminder server."
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:46
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Signup to Passlogy Password Reminder\" target=\"_blank\">Signup to Passlogy Password Reminder</a>?"
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:71
+#: ../passlogy_pwd_reminder_login.php:93
+msgid "<br><a href=\"%s\" title=\"Login without Passlogy Password Reminder temporarily\">Login without Passlogy Password Reminder temporarily</a> ?"
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:101
+msgid "<strong>ERROR</strong>: The password you entered for the username <strong>%s</strong> is not displayed on Passlogy Password Reminder. Display your password on Passlogy Password Reminder."
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:126
+msgid "A login code was sent for login without Passlogy Password Reminder temporarily."
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:127
+msgid "Your temporarily login code is \"%s\"."
+msgstr ""
+
+#: ../passlogy_pwd_reminder_login.php:133
+msgid "[%s] Your temporarily login code"
+msgstr ""
